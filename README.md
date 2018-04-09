@@ -1,2 +1,2 @@
 # STYLE-CSS-WIREFRAME
-Building a Wireframe
+Building a HTML page wireframe with CSS
