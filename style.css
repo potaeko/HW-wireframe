@@ -1,4 +1,3 @@
-/*font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;*/
 
 * {
 	box-sizing: border-box;
@@ -23,18 +22,17 @@ header {
 	padding: 40px;
 	margin-bottom: 10px;
 	background: #ebebeb;
-
 }
 
 nav {
 	padding: 40px;
 	margin-bottom: 20px;
 	background: #ebebeb;
-
-
 }
 
-/*make section relative position*/
+/*=========================================
+		Section Relative Position
+==========================================*/
 .relative {
 	position: relative;
 	width: 495px;
@@ -46,7 +44,9 @@ nav {
 	float: left;
 }
 
-/*make section absolute position applied to article,h1,p*/
+/*=========================================
+Section Absolute Position For article,h1,p
+==========================================*/
 .absolute {
 	position: absolute;
 	width: 475px;
@@ -95,8 +95,9 @@ aside {
 	font-family: 'sans-serif';
 
 }
-
-/*clear for footer*/
+/*=============================
+			Footer
+==============================*/
 .clear {
 	width: 960px;
 	padding: 40px;
